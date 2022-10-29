@@ -1,2 +1,5 @@
 tomat
+<<<<<<< HEAD
 avocado
+vitlÃk
+
